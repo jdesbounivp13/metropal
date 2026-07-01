@@ -2,7 +2,7 @@
     --couleur-primaire : #53606C;
 }
 
-body {
+html, body {
 text-align:justify
 width: 100%;
 height: 100%;
