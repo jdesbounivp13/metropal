@@ -1,9 +1,9 @@
 ---
-title: "Accueil"
+title: "METROpolisation dans les Périphéries d’Amérique Latine : collectifs et productions foncières à Mexico, Quito et Santiago du Chili"
 order: 1
 in_menu: true
 ---
-## _Metropal_ :  METROpolisation dans les Périphéries d'Amérique Latine : collectifs et productions foncières à Mexico, Quito et Santiago du Chili
+## Description
 
 Depuis les années 1990, sous l’effet de l’affirmation des cadres libéraux des politiques publiques, les périphéries des métropoles latino-américaines ont subi, de profondes transformations du fait de la délocalisation, depuis les centres-villes, d’activités économiques, d’équipements majeurs, et de projets immobiliers résidentiels (Azaïs, Pépin-Lehalleur, 2014 ; Durán et al, 2016). De même, l’agriculture a été mise sous pression (Faliès et Mesclier, 2015) et les inégalités socio-spatiales se sont creusées (Dureau et al., 2015 ; Ribardière et Valette, 2021). Toutefois, en réaction à ces mutations rapides, les périphéries métropolitaines d’Amérique latine ont connu d’importantes mobilisations populaires menant à des conflits autour des usages et de l’appropriation du sol (Azuela et Tomas, 1997 ; Iracheta, Medina, 2008 ; Lombard, 2015 ; Allain, 2020).  
 Loin de constituer des espaces d’atonie politique (Melé, 2012) et de déstructuration des liens sociaux, ces périphéries s’affirment comme des lieux où se réinvente la notion de « collectif » autour de la question foncière. A partir des liens au sol, s’articulent en effet les différents enjeux de la gestion des ressources, de la production agricole, de l’approvisionnement alimentaire des villes, et du logement du plus grand nombre, à celui de la construction d’une légitimé politique des populations.  
