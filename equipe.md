@@ -3,7 +3,7 @@ title: "Equipe"
 order: 2
 in_menu: true
 ---
-## Equipe
+# Equipe
 
 - Nasser Rebaï, MCF en géographie, Université Sorbonne Paris Nord 
 - Jean-François Valette, MCF en Géographie, Université Paris 8 - Saint-Denis 
