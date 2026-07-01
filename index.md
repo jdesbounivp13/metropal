@@ -1,5 +1,5 @@
 ---
-title: "METROpolisation dans les Périphéries d’Amérique Latine : collectifs et productions foncières à Mexico, Quito et Santiago du Chili"
+title: "Metropal : METROpolisation dans les Périphéries d’Amérique Latine : collectifs et productions foncières à Mexico, Quito et Santiago du Chili"
 order: 1
 in_menu: true
 ---
